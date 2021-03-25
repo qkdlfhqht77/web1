@@ -1,0 +1,10 @@
+1. Tag
+	<strong></strong> 굵기 굵게
+	<br> 줄바꿈 
+	<p> 단락 바꿈 
+	<h1> <h2> <h3>... 제목
+	<img src="x" width="x%"> 이미지
+	<ul>(Unordered list) 부모 <li> 자식 <ul> <li>1</li> <li>2</li> </ul>  <ul> <li>a</li> <li>b</li> </ul>
+	<ol> 목차 넘버링(Ordered List)
+	<!doctype html>, <html>, <head>, <body>는 html 사용자끼리의 약속
+	<a href="x"> 링크
